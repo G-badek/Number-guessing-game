@@ -4,6 +4,6 @@ This is a number guessing game that rewards the users and likewise takes the use
 
 <hr/>
 
-## You can have access to the game using the link below
+## You can have access to the Number Guessing Game using the link below
 
 [https://Number-guessing-game.affem.repl.co](https://Number-guessing-game.affem.repl.co)
