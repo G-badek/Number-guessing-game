@@ -18,7 +18,7 @@ function process(range) {
         }
         
     } else if (actualValue != predictedValue) {
-        alert(`\nGame over ${user}. The correct number is ${actualValue}\n\nYour total Point is ${point} ${(range > 3) ? "\n\nYou are indeed a genius for making it this far" : ""}`);
+        alert(`\nGame over ${user}. \n\nThe correct number is ${actualValue}\n\nYour total Point is ${point} ${(range > 3) ? "\n\nYou are indeed a genius for making it this far" : ""}`);
         user = "";
         range = 2;
         point = 0;

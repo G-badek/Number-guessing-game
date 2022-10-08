@@ -59,7 +59,7 @@ button:active {
 
 @media only screen and (max-width: 600px) {
     body {
-        height: 100vh;
+        height: 90vh;
     }
     body div {
         width: 100%;
