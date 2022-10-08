@@ -4,6 +4,10 @@ This is a number guessing game that rewards the users and likewise takes the use
 
 <hr/>
 
-## You can have access to the Number Guessing Game using the link below
+## You can have access to The Number Guessing Game webpage using the link below
 
 [https://Number-guessing-game.affem.repl.co](https://Number-guessing-game.affem.repl.co)
+
+## You can also have access The Number Guessing Game files in the link below
+
+[https://replit.com/@Affem/Number-guessing-game](https://replit.com/@Affem/Number-guessing-game)
