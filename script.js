@@ -42,7 +42,7 @@ function online(range = 2) {
     //range = num;
     actualValue = Math.ceil(Math.random() * range);
     console.log(`The correct number for STAGE ${range-1} is: ${actualValue}`);
-    predictedValue = prompt(`\nHello ${user}\n\nYou are welcome to the STAGE ${range-1} of The Number Guessing Game\n\nYou have ${point} Point(s)\n\nI picked a random number between 1 and ${range}\n\nShow me how awesome you are by guessing that number.\n`);
+    predictedValue = prompt(`\nHello ${user}\n\nWelcome to the STAGE ${range-1} of The Number Guessing Game\n\nYou have ${point} Point(s)\n\nI picked a random number between 1 and ${range}\n\nShow me how awesome you are by guessing that number.\n`);
     if(predictedValue != null) {
         process(range);
     } else {

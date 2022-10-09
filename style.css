@@ -15,9 +15,11 @@ body {
     color: #00203fff;
     font-family: 'Roboto Slab', serif;
     display: flex;
-    justify-content: center;
+    justify-content: space-between;
+    flex-direction: column;
+    padding: 3rem 0;
     align-items: center;
-    height: 80vh;
+    height: 90vh;
 }
 
 body div {
